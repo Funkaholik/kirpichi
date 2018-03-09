@@ -341,22 +341,22 @@ template {
 }
 @font-face {
 	font-family: 'Bauhaus';
-	src: url('fonts/bauhaus-light/Bauhaus-Light.woff2') format('woff2'),
-	    url('fonts/bauhaus-light/Bauhaus-Light.woff') format('woff');
+	src: url('../fonts/bauhaus-light/Bauhaus-Light.woff2') format('woff2'),
+	    url('../fonts/bauhaus-light/Bauhaus-Light.woff') format('woff');
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Bauhaus';
-	src: url('fonts/bauhaus-light/Bauhaus-Light.woff2') format('woff2'),
-	    url('fonts/bauhaus-light/Bauhaus-Light.woff') format('woff');
+	src: url('../fonts/bauhaus-light/Bauhaus-Light.woff2') format('woff2'),
+	    url('../fonts/bauhaus-light/Bauhaus-Light.woff') format('woff');
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Bauhaus';
-	src: url('fonts/bauhaus-light/Bauhaus-Light.woff2') format('woff2'),
-	    url('fonts/bauhaus-light/Bauhaus-Light.woff') format('woff');
+	src: url('../fonts/bauhaus-light/Bauhaus-Light.woff2') format('woff2'),
+	    url('../fonts/bauhaus-light/Bauhaus-Light.woff') format('woff');
 	font-weight: 300;
 	font-style: normal;
 }
